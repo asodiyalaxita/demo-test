@@ -1,7 +1,6 @@
 import xmlrpc.client
 #committttt
 # hiii i am grout
-# i am nihle bething
 url = "http://localhost:8069"
 db = "msuinterns"
 username = "laxita"
