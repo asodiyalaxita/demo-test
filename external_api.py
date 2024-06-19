@@ -1,8 +1,10 @@
 import xmlrpc.client
 #committttt
 # hiii i am grout
+
+# karth
 url = "http://localhost:8069"
-db = "msuinterns"
+db = "msuinterns"  
 username = "laxita"
 password = "laxita"
 
